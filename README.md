@@ -1,7 +1,7 @@
 # unstructured-robotic-grasping-ros
-Robotic Pick and Place in Python in Unstructured Environments
+Robotic Pick and Place in Python in Unstructured Environments Using RGBD Cameras
 
-This project is related to the research of developing a robust pick and place system in an unstructured environment for collecting trash on beaches. 
+This project is related to the research of developing a robust pick and place system (from AI to arm control, using RGBD data) in an unstructured environment for collecting trash on beaches. 
 Each method is detailed in the README. The most advanced one, the latest (SPOT), is based on a combination of a camera projection model, YOLO v8 segmentation (trained on TACO), PCA, and tracking algorithms.
 
 NOTE: Please keep in mind that certain sections of the guide for initiating the algorithm might be specifically tailored to our implementation on our robot (BIOBLU project, ROSYS group, UNICT).
