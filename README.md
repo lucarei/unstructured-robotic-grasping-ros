@@ -6,8 +6,10 @@ Each method is detailed in the README. The most advanced one, the latest (SPOT),
 
 NOTE: Please keep in mind that certain sections of the guide for initiating the algorithm might be specifically tailored to our implementation on our robot (BIOBLU project, ROSYS group, UNICT).
 
-![image](https://github.com/lucarei/unstructured-robotic-grasping-ros/assets/128145979/90179723-8c9f-4c5d-9959-66a38bf11e98)
+NOTE II: You can access all of our research through the following link (https://github.com/lucarei/orientation-detection-robotic-grasping).
 
+
+![image](https://github.com/lucarei/unstructured-robotic-grasping-ros/assets/128145979/90179723-8c9f-4c5d-9959-66a38bf11e98)
 
 
 # INITIAL VERSION (just vision):
